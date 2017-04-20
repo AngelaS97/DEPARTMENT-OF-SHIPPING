@@ -1,12 +1,12 @@
 # DEPARTMENT-OF-SHIPPING
- DEPARTMENT OF SHIPPING
+ 
 <html>
 <body>
 <table>
 <font size=5>
 <table border=5 > 
-<tr><th> FAULT <th>DESCRIPTION<th>SUGGESTION</tr>
-<b><i>DEPARTMENT OF SHIPPING</i></b>
+<tr><th> FAULT <th>DESCRIPTION<th>SUGGESTION</th></tr>
+
 <th> meta description</th>
 
 <td>The meta description is a ~160 character snippet, a tag in HTML, that 
@@ -31,9 +31,7 @@ document to structure the content. By using Heading Tags, we differentiate our w
 page content.The six heading elements, H1 through H6, denote section headings. 
 
 </td>
-<td> No Heading is found. <b><u>Suggested</u></b>---Ministry of water 
-
-resource</td>
+<td> No Heading is found. <b><u>Suggested</u></b>---DEPARTMENT OF SHIPPING</td>
 
 <br>
 </tr>
@@ -58,6 +56,7 @@ the page's topic, and contain no spaces, underscores or other characters.</td><b
   <tr>
   
   <th>Image alt Test</th>
+  <td>The term "ALT tag" is a common shorthand term used to refer to the ALT attribute within in the IMG tag. Any time you use an image, be sure to include an ALT tag or ALT text within the IMG tag. Doing so will provide a clear text alternative of the image for screen reader users.</td>
   <td>Your webpage has 41 'img' tags and 5 of them missing the required 'alt' attribute.
 </td><br>
   </tr>
